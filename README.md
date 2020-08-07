@@ -2,7 +2,7 @@
 
 ### I'm a computer science student and research assistant!
 - 🔭 I’m currently working on my bachelor thesis using weak supervision for event extraction and other NLP related stuff
-- 🌱 I’m currently (still) learning Python for NLP using frameworks such as [Flair](https://github.com/flairNLP/flair) and [AllenNLP](https://github.com/allenai/allennlp)
+- 🌱 I’m currently learning Python for NLP using deep learning methods
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
