@@ -1,8 +1,8 @@
 ### Hi there, I'm Phuc 👋
 
 ### I'm a computer science student and research assistant!
-- 🔭 I’m currently working on my bachelor thesis using weak supervision for event extraction and other NLP related stuff
-- 🌱 I’m currently learning Python for NLP using deep learning methods
+- 🔭 I just finished my bachelor thesis on weak supervision for event extraction and am mainly working on NLP related stuff
+- 🌱 I’m (still) currently learning Python for NLP using deep learning methods
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
