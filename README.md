@@ -1,8 +1,7 @@
 ### Hi there, I'm Phuc 👋
 
-### I'm a computer science student and research assistant!
-- 🔭 I just finished my bachelor thesis on weak supervision for event extraction and am mainly working on NLP related stuff
-- 🌱 I’m (still) currently learning Python for NLP using deep learning methods
+I'm pursuing a master's degree in computer science student at Humboldt University of Berlin and work as a research assistant in the [Speech and Language Technology Group](https://github.com/DFKI-NLP) of the German Research Center for Artificial Intelligence (DFKI). 
+I wrote my bachelor thesis on weak supervision for event extraction and am now mainly working on NLP related stuff with focus on Information Extraction.
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
