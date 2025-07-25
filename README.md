@@ -1,6 +1,6 @@
 ### Hi there, I'm Phuc 👋
 
-I'm a master's student in Computer Science at Humboldt University of Berlin, currently awaiting the results of my thesis titled **"Cross-lingual Transfer of Pre-Trained Language Models to Vietnamese"**.
+I recently obtained my Master's degree in Computer Science at Humboldt University of Berlin and am currently on the job hunt. 
 
 For the past 6 years, I have been working as a student assistant in the [Speech and Language Technology Group](https://github.com/DFKI-NLP) at the [German Research Center for Artificial Intelligence (DFKI)](https://dfki.de/web), focusing on Natural Language Processing (NLP) – especially **Information Extraction**. During my time at the DFKI I wrote my bachelor thesis on weak supervision for event extraction. Most recently I have been working on **Biomedical Relation Extraction** with **Large Language Models (LLMs)** using the **LangChain** framework.
 
@@ -8,8 +8,7 @@ For the past 6 years, I have been working as a student assistant in the [Speech 
 
 ### 📘 My Master’s Thesis
 
-I recently submitted my Master’s thesis titled **"Cross-lingual transfer of Pre-Trained Language Models to Vietnamese"**.  
-In this work I explored cross-lingual transfer techniques for adapting pre-trained language models to Vietnamese, focusing on tokenizer replacement and efficient initialization strategies.  
+For my Master’s thesis titled **"Cross-lingual transfer of Pre-Trained Language Models to Vietnamese"**,  I evaluated multiple cross-lingual transfer techniques for adapting pre-trained language models to Vietnamese, focusing on tokenizer replacement and efficient initialization strategies.  
 
 👉 [Check out the code and experiments here](https://github.com/phucdev/lm_transfer)
 
@@ -17,8 +16,7 @@ In this work I explored cross-lingual transfer techniques for adapting pre-train
 
 ### 🎓 My Bachelor’s Thesis & Projects
 
-For my Bachelor’s thesis titled "Investigating Weak Supervision for the Extraction of Mobility Relations and Events in German Text", 
-I explored weak supervision techniques for event extraction. In particular, I worked with [Snorkel](https://github.com/snorkel-team/snorkel), a framework for programmatically generating training data through labeling functions based on heuristics.  
+For my Bachelor’s thesis titled "Investigating Weak Supervision for the Extraction of Mobility Relations and Events in German Text", I explored weak supervision techniques for event extraction. In particular, I worked with [Snorkel](https://github.com/snorkel-team/snorkel), a framework for programmatically generating training data through labeling functions based on heuristics.  
 This work was conducted at the [Speech and Language Technology Lab](https://github.com/DFKI-NLP), where I contributed to ongoing research efforts and related open-source projects. These include::
 
 - 🔧 [**eventx**](https://github.com/DFKI-NLP/eventx): Implementation of joint classification of events and arguments  
