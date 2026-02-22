@@ -1,8 +1,8 @@
 ### Hi there, I'm Phuc 👋
 
-I recently obtained my Master's degree in Computer Science at Humboldt University of Berlin and am currently on the job hunt. 
+I'm a Junior Data Scientist at CHECK24 Möbel where I work on improving processes in the back office using LLMs. 
 
-For the past 6 years, I have been working as a student assistant in the [Speech and Language Technology Group](https://github.com/DFKI-NLP) at the [German Research Center for Artificial Intelligence (DFKI)](https://dfki.de/web), focusing on Natural Language Processing (NLP) – especially **Information Extraction**. During my time at the DFKI I wrote my bachelor thesis on weak supervision for event extraction. Most recently I have been working on **Biomedical Relation Extraction** with **Large Language Models (LLMs)** using the **LangChain** framework.
+Before that I worked as a student assistant in the [Speech and Language Technology Group](https://github.com/DFKI-NLP) at the [German Research Center for Artificial Intelligence (DFKI)](https://dfki.de/web), focusing on Natural Language Processing (NLP) – especially **Information Extraction**. During my time at the DFKI I wrote my bachelor thesis on weak supervision for event extraction. My final work there focused on **Biomedical Relation Extraction** with **Large Language Models (LLMs)** using the **LangChain** framework.
 
 ---
 
@@ -32,7 +32,7 @@ This work was conducted at the [Speech and Language Technology Lab](https://gith
 [<img align="left" alt="phucdev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuc-tran-truong-589602103)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuc-tran-truong)
 
 <a href="https://huggingface.co/phucdev">
   <picture>
